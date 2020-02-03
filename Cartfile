@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" ~> 3.0
-github "LoopKit/dexcom-share-client-swift" ~> 1.2
+github "kenstack/LoopKit" "ken-updates"
+github "kenstack/dexcom-share-client-swift" "ken-updates"
